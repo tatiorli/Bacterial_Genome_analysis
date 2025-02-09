@@ -15,9 +15,11 @@ Experimental Procedure: The library construction method and sequencing process a
 
 •	Session 2.2 - Sequencing and data quality control
 After sequencing, the raw reads were filtered. Data filtering includes removing adapter sequences, contamination and low-quality reads from raw reads. 
+
 Sample Name	Total Reads	Total Bases generated	Read Length	Q20(%)	Q30(%)	GC(%)
 树状微杆菌A	8,136,166	2,440,849,800	PE150	93.78	82.46	62.35
 Table 1: Statistics of the clean raw reads data.
+
 The quality of data was examined after filtering. The distribution of base percentage and qualities along reads after data filtering. In the figure 1 (left), x-axis represents base position along reads, y-axis represents base percentage at the position; each color represents a type of nucleotide. Under normal conditions, the sample does not have AT/GC separation. It is normal to see fluctuations in the first several bp positions, which is caused by random primer and the instability of enzyme-substrate binding at the beginning of the sequencing reaction. In the right figure, x-axis represents base position along reads, y-axis represents base quality; each dot represents the base quality of the corresponding position along reads, color intensity reflects the number of nucleotides, a more intense color along a quality value indicates a higher proportion of this quality in the sequencing data.
 
 
