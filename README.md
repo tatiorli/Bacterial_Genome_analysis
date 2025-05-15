@@ -1,8 +1,20 @@
-Regulatory Submission report  
-Bioinformatics analysis of bacterial Microbacterium arborensens spp. - For EFSA submission of WGS analysis of microorganisms intentionally used in the food chain (as a food probiotiec complement).
+# Regulatory Submission Report
 
-The used bacterial strain is claimed to be Microbacterium arborensens JCMM 5884 (DSM20754). 
-The objective of this bioinformatics analysis was to veriify and describe the full genome of this bacterium species, and to identify the claimed enzyme of interest, and characterize the protein full sequence.
-This bacterium produces xylose isomerase, which is the enzyme of interest. The organism did not undergo genetic modifications and was used as obtained from the original manufacturer.
-Check the report in full format at the file "Bioinformatics analysis report - Microbacterium arborescens - Food supplement of Xylose isomerase.docx"
-Client: Medstone Science B.V., Amsterdam.
+## Bioinformatics Analysis of *Microbacterium arborescens* JCMM 5884 (DSM 20754)
+
+This report summarizes the bioinformatics analysis performed for the EFSA submission on the whole genome sequencing (WGS) of microorganisms intentionally used in the food chain, specifically as a probiotic food supplement.
+
+The analyzed bacterial strain is **Microbacterium arborescens** JCMM 5884 (DSM 20754), claimed by the manufacturer. The objective of this study was to:
+
+- Verify and describe the full genome of the bacterium
+- Identify the enzyme of interest (xylose isomerase)
+- Characterize the full protein sequence of the enzyme
+
+The bacterium is **not genetically modified** and was analyzed as obtained directly from the original manufacturer.
+
+🔬 The enzyme of interest, **xylose isomerase**, was successfully identified and characterized.
+
+📄 For full details, refer to the report:  
+**"Bioinformatics analysis report - Microbacterium arborescens - Food supplement of Xylose isomerase.docx"**
+
+**Client:** Medstone Science B.V., Amsterdam
