@@ -15,6 +15,6 @@ The bacterium is **not genetically modified** and was analyzed as obtained direc
 🔬 The enzyme of interest, **xylose isomerase**, was successfully identified and characterized.
 
 📄 For full details, refer to the report, available in this repo:  
-**"Bioinformatics analysis report - Microbacterium arborescens - Food supplement of Xylose isomerase.docx"**
+**[Bioinformatics analysis report - Microbacterium arborescens - Food supplement of Xylose isomerase.docx](./Bioinformatics analysis report - Microbacterium arborescens - Food supplement of Xylose isomerase.docx)**
 
 **Client:** Medstone Science B.V., Amsterdam
